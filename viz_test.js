@@ -11,7 +11,7 @@ const default_options = {
     display: "select",
     values: [
       {"Football": "https://i.ebayimg.com/images/i/221428428152-0-1/s-l1000.jpg"},
-      {"Darts": "http://freepngimages.com/wp-content/uploads/2017/01/winmau-dartboard.png"}
+      {"Darts": "http://freepngimages.com/wp-content/uploads/2017/01/winmau-dartboard.png"},
       {"Dog": "https://i0.wp.com/freepngimages.com/wp-content/uploads/2019/08/golden-retriever.png?w=1000"}
 
     ],
